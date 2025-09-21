@@ -1,6 +1,4 @@
--- Preview = https://gyazo.com/ba33c85b4bfeb92963d0a5ec3ac8f27d
---// Made by Blissful#4992
---// Locals:
+
 local workspace = game:GetService("Workspace")
 local player = game:GetService("Players").LocalPlayer
 local camera = workspace.CurrentCamera
